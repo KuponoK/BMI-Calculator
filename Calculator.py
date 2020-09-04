@@ -1,7 +1,3 @@
-from moviepy.editror import *
-clip = VideoFileClip("BMICalculatorWalkthroughimov").rotate(180)
-clip.ipython_display(width=280)
-
 print("Welcome to Po's BMI Calculator!")
 
 #get height and weight of user
