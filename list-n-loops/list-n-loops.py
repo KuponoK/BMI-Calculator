@@ -14,12 +14,3 @@ for i in range(len(songs)):
 
 for song in songs:
     print(song)
-
-#final task
-
-animals = ['Lizard', 'Dog', 'Cat']
-animals.append('Bird')
-print(animals[2])
-animals.pop(0)
-for i in range(len(animals)):
-    print(animals[i])
